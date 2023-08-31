@@ -1,0 +1,2 @@
+apiUrl: http://web-api-internal.minehut.svc:3001
+mode: "PLAYER_SERVER"
